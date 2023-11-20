@@ -1,0 +1,10 @@
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project21\Chart_Grafik\Chart_Grafik\bin\Debug\Chart_Grafik.exe.config
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project21\Chart_Grafik\Chart_Grafik\bin\Debug\Chart_Grafik.exe
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project21\Chart_Grafik\Chart_Grafik\bin\Debug\Chart_Grafik.pdb
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project21\Chart_Grafik\Chart_Grafik\obj\Debug\Chart_Grafik.csproj.AssemblyReference.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project21\Chart_Grafik\Chart_Grafik\obj\Debug\Chart_Grafik.Form1.resources
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project21\Chart_Grafik\Chart_Grafik\obj\Debug\Chart_Grafik.Properties.Resources.resources
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project21\Chart_Grafik\Chart_Grafik\obj\Debug\Chart_Grafik.csproj.GenerateResource.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project21\Chart_Grafik\Chart_Grafik\obj\Debug\Chart_Grafik.csproj.CoreCompileInputs.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project21\Chart_Grafik\Chart_Grafik\obj\Debug\Chart_Grafik.exe
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project21\Chart_Grafik\Chart_Grafik\obj\Debug\Chart_Grafik.pdb
